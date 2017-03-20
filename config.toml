@@ -1,0 +1,26 @@
+baseurl = "http://gogo.tattoo/xizi/"
+languageCode = "en-us"
+title = "xizi @ gogo.tattoo"
+name = "Xizi"
+copyright = "Xizi"
+
+[params]
+# The path must be relative to the static folder
+favicon = "favicon.ico"
+
+[params.profile]
+  avatar = "images/xizi.jpg"
+  description = ""
+  experience = "5+ years (since 2012)"
+  location = "Shanghai"
+  origin = "China"
+
+# Navigation
+[params.navigation]
+  brand = "xizi @ gogo tattoo  (Alpha)"
+
+  [params.navigation.links]
+    about     = "nav.about"
+    services  = "nav.services"
+    portfolio = "nav.portfolio"
+    contact   = "nav.contact"

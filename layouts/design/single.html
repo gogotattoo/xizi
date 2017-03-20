@@ -1,0 +1,65 @@
+ {{ partial "header.html" . }}
+
+				<div class="container-fluid">
+					<div class="row">
+						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+							{{ partial "profile.html" . }}
+					  </div>
+						<div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
+							 <main role="main">
+								 <h1 class="tattoo-title" itemprop="headline">{{ .Title }}</h1>
+                 {{ if .Params.tattoos }}
+                  <a href="{{ $.Site.BaseURL }}tattoo/{{ index .Params.tattoos 0 }}"><h2 class="design-link">See it as a finished work here.</h2></a>
+                 {{ end }}
+								 <section itemprop="entry-text">
+									 {{ .Content }}
+                 <div id="tattoo-wrapper">
+                    <div id="tattoo-columns-single">
+											{{ range .Params.images }}
+												{{ if not (eq $.Params.image .) }}
+		              				<div class="pin">
+														<figure>
+															<img class="tattoo-image"
+                                onclick="zoomImage()"
+																src="{{ $.Site.BaseURL }}images/tattoo/{{ . }}.jpg"
+																alt="{{ $.Title }}">
+														</figure>
+													</div>
+												 {{ end }}
+											{{ end }}
+											{{ range .Params.images_ipfs }}
+  	              				<div class="pin">
+  													<figure>
+  														<img class="tattoo-image"
+                                onclick="zoomImage()"
+  															src="https://gateway.ipfs.io/ipfs/{{ . }}"
+  															alt="{{ $.Title }}">
+  													</figure>
+  												</div>
+											{{ end }}
+			              	<div class="pin">
+												<figure>
+                          {{ if .Params.image_ipfs }}
+                            <img src="https://gateway.ipfs.io/ipfs/{{ .Params.image_ipfs }}" alt="{{ .Title }}" class="tattoo-image" onclick="zoomImage()">
+                          {{ else }}
+                            <img src="{{ $.Site.BaseURL }}images/tattoo/{{ .Params.image }}.jpg" alt="{{ .Title }}" class="tattoo-image" onclick="zoomImage()">
+                          {{ end }}
+												</figure>
+											</div>
+			              </div>
+                  </div>
+                  {{ partial "artwork_dates.html" . }}
+                  {{ partial "artwork_tags.html" . }}
+								</main>
+							</div>
+						</div>
+					</div>
+          <div id="Fullscreen">
+            <img src="" alt="" />
+          </div>
+
+
+	{{ partial "js.html" . }}
+
+
+	{{ partial "footer.html" . }}

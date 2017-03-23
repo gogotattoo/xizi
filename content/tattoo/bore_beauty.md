@@ -23,5 +23,6 @@ images_ipfs = [
 
 extra = ""
 duration_mins = 640
+design = "bore_beauty"
 
 +++

@@ -20,5 +20,6 @@ image_ipfs = "QmVkmhtMAZsJzsPvnZ6xfkzog5BR19j58fZm1f2ZkC2h6L"
 images_ipfs = ["QmegYdAMwvhPQxdw1pBTqVFWX8C1ndcuUybb4s5KxAe96d"]
 extra = ""
 duration_mins = 640
+tattoos = ["garden_birds"]
 
 +++

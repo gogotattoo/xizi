@@ -18,5 +18,6 @@ image_ipfs = "QmRfX36hcGFyGPnWLUZbJYMo6jJRdVZh3Qq1J4Pbdz9uvF"
 
 extra = ""
 duration_mins = 640
+tattoos = ["bore_beauty"]
 
 +++

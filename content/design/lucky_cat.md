@@ -17,5 +17,6 @@ title = "Lucky cat Daruma"
 image_ipfs = "QmdoUz5GDguKvdLC1GTq8pmvYxrTXpi6Z2ojVbrfwT4hDZ"
 extra = ""
 duration_mins = 120
+tattoos = ["lucky_cat"]
 
 +++

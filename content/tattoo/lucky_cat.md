@@ -16,6 +16,7 @@ location_city = "Shanghai"
 title = "Lucky cat Daruma"
 image_ipfs = "QmRgieHDkSB5kdPX9QoMFEVZ7QDJziZXNtWL7iXK1FCmov"
 extra = ""
-duration_mins = 640
+duration_mins = 140
+design = "lucky_cat"
 
 +++

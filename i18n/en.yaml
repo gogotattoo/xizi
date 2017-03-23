@@ -1,1 +1,7 @@
-# 
+- id: contact.headline
+  translation: "Follow my public groups"
+- id: contact.description
+  translation: ""
+
+- id: contact.wechat_qr
+  translation: "QmYkhRApJjNdADogNC9mhCcwUpzvG4berEpnc3avQ7P8Pt"

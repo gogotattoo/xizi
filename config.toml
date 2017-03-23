@@ -15,6 +15,14 @@ favicon = "favicon.ico"
   location = "Shanghai"
   origin = "China"
 
+  [params.profile.contact]
+    # chat = "contact.chat"
+    # email = "contact.email"
+    # line = "contact.line"
+    # steemit = "contact.steemit"
+  	# headline = "contact.headline"
+  	description = "contact.description"
+    wechat_qr = "contact.wechat_qr"
 # Navigation
 [params.navigation]
   brand = "xizi @ gogo.tattoo"

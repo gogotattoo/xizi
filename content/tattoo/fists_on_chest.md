@@ -1,6 +1,6 @@
 +++
 made_at_shop = "chushangfeng"
-made_date = "2016-03-18T16:01:01+08:00"
+made_date = "2017-03-18T16:01:01+08:00"
 tags = ["realistic","fist","boxing"]
 date = "2017-03-24T16:20:01+08:00"
 location_country = "China"

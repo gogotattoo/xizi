@@ -8,6 +8,9 @@ copyright = "Xizi"
 # The path must be relative to the static folder
 favicon = "favicon.ico"
 
+[params.version]
+  name = "0.0.6-alpha"
+  code = 6
 [params.profile]
   avatar = "images/xizi.jpg"
   description = ""

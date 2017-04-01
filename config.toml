@@ -3,7 +3,19 @@ languageCode = "en-us"
 title = "xizi @ gogo.tattoo"
 name = "Xizi"
 copyright = "Xizi"
+DefaultContentLanguage = "en"
+DefaultContentLanguageInSubdir = "false"
 
+[Languages]
+  [Languages.en]
+    weight = 1
+  [Languages.zh]
+    weight = 3
+  [Languages.zh-hant]
+    weight = 2
+  [Languages.ru]
+    weight = 2
+    
 [params]
 # The path must be relative to the static folder
 favicon = "favicon.ico"

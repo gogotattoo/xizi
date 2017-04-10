@@ -1,1 +1,16 @@
-# 
+#
+- id: nav.tattoo
+  translation: "紋身"
+- id: nav.design
+  translation: "設計"
+- id: nav.henna
+  translation: "海娜"
+- id: nav.piercing
+  translation: "穿孔"
+- id: nav.dreadlocks
+  translation: "臟辮"
+
+- id: profile.description
+  translation: "在18歲為我紋身的紋身師說我一定會成為一個紋身師，並想要收我為徒，但我當時正值高三便放棄了。從小學習美術，藝考上大學選擇了服裝設計，幻想著每天能與繪畫和設計作伴，可在大學裡並沒有學到我想學的，不想虛度青春，便從四川前往浙江拜師學藝。在各個城市駐店文身與學習。這是需要從一而終去完成的事業。繪畫和文身是生活不可分割的一部分，就像食物和空氣一樣尋常卻重要。我不知道我會做到什麼程度，我就活在當下，不忘初心。"
+- id: nav.contact
+  translation: "聯繫我"

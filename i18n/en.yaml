@@ -4,4 +4,19 @@
   translation: ""
 
 - id: contact.wechat_qr
-  translation: "QmYkhRApJjNdADogNC9mhCcwUpzvG4berEpnc3avQ7P8Pt"
+  translation: "QmbBsTT9Qv378NxLj5aDhLRRziBkHh5VP8n5nTyFqGYpHC"
+
+- id: nav.tattoo
+  translation: "Tattoo"
+- id: nav.design
+  translation: "Design"
+- id: nav.henna
+  translation: "Henna"
+- id: nav.piercing
+  translation: "Piercing"
+- id: nav.dreadlocks
+  translation: "Dreadlocks"
+- id: profile.description
+  translation: "At the age of 18, my first tattoo artist told me I was bound to become a master tattoo artist and agreed to accept me as his apprentice, but being preoccupied with my third year of high school at that time I had to give up. I was able to keep pursuing the arts when I was selected to study clothing design at an arts college, allowing me to explore my imagination every day among fellow artists doing painting and design. As a university student I soon felt I wasn't learning what I needed to be, and in order to not waste time putting off my dreams I moved from Sichuan to Zhejiang to resume learning tattoo art. I apprenticed in various tattoo studios in different cities, completing a learning process I couldn't fail to finish having started it. Painting and tattoo work are an integral part of life, as important to me as food and air. I do not know how far my work will take me, and live in the moment without forgetting the original spirit of my dream."
+- id: nav.contact
+  translation: "Contact me"

@@ -15,20 +15,19 @@ DefaultContentLanguageInSubdir = "false"
     weight = 2
   [Languages.ru]
     weight = 2
-    
 [params]
 # The path must be relative to the static folder
 favicon = "favicon.ico"
 
 [params.version]
-  name = "0.0.6-alpha"
-  code = 6
+  name = "0.0.9-alpha"
+  code = 9
 [params.profile]
   avatar = "images/xizi.jpg"
-  description = ""
   experience = "5+ years (since 2012)"
   location = "Shanghai"
   origin = "China"
+  description = "profile.description"
 
   [params.profile.contact]
     # chat = "contact.chat"
@@ -39,6 +38,14 @@ favicon = "favicon.ico"
   	description = "contact.description"
     wechat_qr = "contact.wechat_qr"
 # Navigation
+[params.nav]
+  tattoo = "nav.tattoo"
+  henna = "nav.henna"
+  design = "nav.design"
+  piercing = "nav.piercing"
+  dreadlocks = "nav.dreadlocks"
+  contact = "nav.contact"
+
 [params.navigation]
   brand = "xizi @ gogo.tattoo"
 

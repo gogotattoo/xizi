@@ -10,7 +10,7 @@
                 <span class="icon-bar"></span>
             </button>
             {{ with .Site.Params.navigation.brand }}
-                <a class="navbar-brand page-scroll" href="{{ $.Site.BaseURL | relLangURL }}">{{ . | markdownify }}</a>
+                <a class="navbar-brand page-scroll" href="{{ $.Site.BaseURL }}">{{ . | markdownify }}</a>
             {{ end }}
         </div>
         {{ "<!-- Collect the nav links, forms, and other content for toggling -->" | safeHTML }}
@@ -32,10 +32,10 @@
               <li>
                 <a class="page-scroll" href="{{ "/henna" | relLangURL }}">{{ .Site.Params.nav.henna | i18n }}</a>
               </li>
-              <!-- <li>
+               <li>
                 <a class="page-scroll" href="{{ "/piercing" | relLangURL }}">{{ .Site.Params.nav.piercing | i18n }}</a>
               </li>
-              <li>
+              <!-- <li>
                 <a class="page-scroll" href="{{ "/dreadlocks" | relLangURL }}">{{ .Site.Params.nav.dreadlocks | i18n }}</a>
               </li> -->
                 {{ if and .Site.Params.about .Site.Params.navigation.links.about }}

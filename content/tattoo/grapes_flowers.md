@@ -24,4 +24,7 @@ made_date = "2017-04-09T15:00:00+08:00"
 tags = ["black and gray", "grapes", "flower"]
 title = "Grapes & flowers"
 
+[blockchain]
+golos = "tattoo/@gogo.tattoo/xizi-gogo-tattoo-xizi-ru-tattoo-grapesflowers"
+steem = "tattoo/@gogo.tattoo/xizi-gogo-tattoo-xizi-tattoo-grapesflowers"
 +++

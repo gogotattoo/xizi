@@ -28,4 +28,8 @@ images_ipfs = ["QmZKCMGBxTyegCnMpiM6iDGXhi6Y9jMDPtzETLk7xjvjMb",
 location_city = "Shanghai"
 location_country = "China"
 made_at_shop = "chushangfeng"
+
+[blockchain]
+golos = "tattoo/@gogo.tattoo/gogo-tattoo-xizi-tattoo-deerbride"
+steem = "tattoo/@gogo.tattoo/gogo-tattoo-xizi-tattoo-deerbride"
 +++

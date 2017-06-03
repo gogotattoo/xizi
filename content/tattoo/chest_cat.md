@@ -23,4 +23,7 @@ images_ipfs = [
 extra = ""
 duration_mins = 240
 
+[blockchain]
+golos = "tattoo/@gogo.tattoo/xizi-gogo-tattoo-xizi-ru-tattoo-chestcat"
+steem = "tattoo/@gogo.tattoo/xizi-gogo-tattoo-xizi-tattoo-chestcat"
 +++

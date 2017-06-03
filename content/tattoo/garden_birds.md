@@ -25,4 +25,7 @@ extra = ""
 duration_mins = 640
 design = "garden_birds"
 
+[blockchain]
+golos = "tattoo/@gogo.tattoo/xizi-gogo-tattoo-xizi-ru-design-tattoo-gardenbirds"
+steem = "tattoo/@gogo.tattoo/xizi-gogo-tattoo-xizi-design-tattoo-gardenbirds"
 +++

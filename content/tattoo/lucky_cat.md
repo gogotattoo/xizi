@@ -19,4 +19,7 @@ extra = ""
 duration_mins = 140
 design = "lucky_cat"
 
+[blockchain]
+golos = "tattoo/@gogo.tattoo/gogo-tattoo-xizi-design-tattoo-luckycat"
+steem = "tattoo/@gogo.tattoo/gogo-tattoo-xizi-design-tattoo-luckycat"
 +++

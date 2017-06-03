@@ -20,4 +20,7 @@ location_city = "Shanghai"
 location_country = "China"
 made_at_shop = "chushangfeng"
 
+[blockchain]
+golos = "tattoo/@gogo.tattoo/xizi-gogo-tattoo-xizi-ru-tattoo-geometricshapes"
+steem = "tattoo/@gogo.tattoo/xizi-gogo-tattoo-xizi-tattoo-geometricshapes"
 +++

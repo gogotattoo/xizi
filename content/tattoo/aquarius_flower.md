@@ -20,4 +20,7 @@ image_ipfs = "QmVvvAqitk36QFdKTdcWRMLGxtwRZv8S9wgRvR2cD16hC1"
 extra = ""
 duration_mins = 240
 
+[blockchain]
+golos = "tattoo/@gogo.tattoo/gogo-tattoo-xizi-ru-tattoo-aquariusflower"
+steem = "tattoo/@gogo.tattoo/gogo-tattoo-xizi-tattoo-aquariusflower"
 +++

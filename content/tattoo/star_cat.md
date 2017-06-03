@@ -17,4 +17,8 @@ images_ipfs = [
 location_city = "Shanghai"
 location_country = "China"
 made_at_shop = "xizi"
+
+[blockchain]
+golos = "tattoo/@gogo.tattoo/xizi-gogo-tattoo-xizi-ru-tattoo-starcat"
+steem = "tattoo/@gogo.tattoo/xizi-gogo-tattoo-xizi-tattoo-starcat"
 +++

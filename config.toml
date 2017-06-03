@@ -20,8 +20,8 @@ DefaultContentLanguageInSubdir = "false"
 favicon = "favicon.ico"
 
 [params.version]
-  name = "0.0.9-alpha"
-  code = 9
+  name = "0.0.10-alpha"
+  code = 10
 [params.profile]
   avatar = "images/xizi.jpg"
   experience = "5+ years (since 2012)"

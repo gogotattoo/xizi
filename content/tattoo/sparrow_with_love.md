@@ -17,4 +17,7 @@ made_date = "2017-04-10T14:00:00+08:00"
 tags = ["black and gray", "sparrow", "bird", "text", "love"]
 title = "Sparrow with love"
 
+[blockchain]
+golos = "tattoo/@gogo.tattoo/gogo-tattoo-xizi-tattoo-sparrowwithlove"
+steem = "tattoo/@gogo.tattoo/gogo-tattoo-xizi-tattoo-sparrowwithlove"
 +++

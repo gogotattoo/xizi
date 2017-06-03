@@ -22,5 +22,7 @@ images_ipfs = [  "QmaNSpeygSxjCCGZVCGUGyyjLaBiAPFB6L82357BxEGgma",
 image_ipfs = "QmRhHx6VevpkZ7FwhT7gp1aSjCLg87DEahhjJetYeycVfu"
 extra = ""
 duration_mins = 260
-
+[blockchain]
+golos = "tattoo/@gogo.tattoo/xizi-gogo-tattoo-xizi-ru-tattoo-fistsonchest"
+steem = "tattoo/@gogo.tattoo/xizi-gogo-tattoo-xizi-tattoo-fistsonchest"
 +++

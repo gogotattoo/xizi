@@ -13,4 +13,8 @@ made_at_country = "China"
 made_date = "2017-03-27T16:55:02+08:00"
 tags = ["deer"]
 title = "Lorchid deer"
+
+[blockchain]
+golos = "tattoo/@gogo.tattoo/gogo-tattoo-xizi-ru-tattoo-lorchiddeer"
+steem = "tattoo/@gogo.tattoo/gogo-tattoo-xizi-tattoo-lorchiddeer"
 +++

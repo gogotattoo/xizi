@@ -20,4 +20,7 @@ image_ipfs = "QmZASJcTjACojCbGNdBowaCJewCBmX2cuR7tLUXLyJc7q4"
 extra = ""
 duration_mins = 40
 
+[blockchain]
+golos = "tattoo/@gogo.tattoo/xizi-gogo-tattoo-xizi-ru-tattoo-purpleflowercover"
+steem = "tattoo/@gogo.tattoo/xizi-gogo-tattoo-xizi-tattoo-purpleflowercover"
 +++

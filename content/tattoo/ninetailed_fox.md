@@ -22,6 +22,8 @@ location_country = "China"
 made_at_shop = "chushangfeng"
 previous = ""
 
-[blockchain]
 
+[blockchain]
+golos = "tattoo/@gogo.tattoo/xizi-gogo-tattoo-xizi-ru-tattoo-ninetailedfox"
+steem = "tattoo/@gogo.tattoo/xizi-gogo-tattoo-xizi-tattoo-ninetailedfox"
 +++

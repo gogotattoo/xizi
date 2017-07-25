@@ -24,7 +24,7 @@ made_at_shop = "chushangfeng"
 previous = ""
 
 [blockchain]
-golos = "tattoo/@gogo.tattoo/gogo-tattoo-xizi-ru-tattoo-kingjungle"
-steem = "tattoo/@gogo.tattoo/gogo-tattoo-xizi-tattoo-kingjungle"
+golos = "tattoo/@gogo.tattoo/xizi-gogo-tattoo-xizi-ru-tattoo-kingjungle"
+steem = "tattoo/@gogo.tattoo/xizi-gogo-tattoo-xizi-tattoo-kingjungle"
 
 +++

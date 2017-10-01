@@ -13,7 +13,7 @@ bodypart = [
 ]
 gender = "female"
 location_city = "Shanghai"
-title = "Bore and the beauty"
+title = "Bōrě and the beauty"
 image_ipfs = "QmTF6KmQzk1dzd7V9AXbyc7HxjYC7f9ot2Wpvr3ufA9aKe"
 images_ipfs = [
   "QmTzhGZZtQh6VCXh38FFPKNajWoaGo1ZjiuZFYVLKHSYp9",
@@ -25,4 +25,7 @@ extra = ""
 duration_mins = 640
 design = "bore_beauty"
 
+[blockchain]
+golos = "tattoo/@gogo.tattoo/xizi-gogo-tattoo-xizi-ru-tattoo-borebeauty"
+steem = "tattoo/@gogo.tattoo/xizi-gogo-tattoo-xizi-tattoo-borebeauty"
 +++

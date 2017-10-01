@@ -13,7 +13,7 @@ bodypart = [
 ]
 gender = "female"
 location_city = "Shanghai"
-title = "Bore and the beauty"
+title = "Bōrě and the beauty"
 image_ipfs = "QmRfX36hcGFyGPnWLUZbJYMo6jJRdVZh3Qq1J4Pbdz9uvF"
 
 extra = ""
